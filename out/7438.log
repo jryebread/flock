@@ -1,0 +1,26 @@
+time="2021-10-30T22:24:34-07:00" level=info msg="Node UUID d4de9787-3a0a-11ec-a092-024b3b9646f6 up!" NodeDaemonPID=7438
+time="2021-10-30T22:24:34-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=7438
+time="2021-10-30T22:24:34-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=7438
+time="2021-10-30T22:24:34-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=7438
+time="2021-10-30T22:24:34-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=7438
+time="2021-10-30T22:24:39-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=7438
+time="2021-10-30T22:24:39-07:00" level=info msg="publishing score of 2" NodeDaemonPID=7438
+time="2021-10-30T22:24:39-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=7438
+time="2021-10-30T22:24:41-07:00" level=info msg="subMsg received on jobs receive: 7438:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=7438
+time="2021-10-30T22:24:41-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=7438
+time="2021-10-30T22:24:41-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=7438
+time="2021-10-30T22:24:44-07:00" level=info msg="Got past, &{7438 Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq 2021-10-30 22:24:41.6790908 -0700 PDT m=+7.057790701 0001-01-01 00:00:00 +0000 UTC  started}" NodeDaemonPID=7438
+time="2021-10-30T22:24:44-07:00" level=info msg=Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq NodeDaemonPID=7438
+time="2021-10-30T22:24:44-07:00" level=error msg="problem reading the ipfs output dir" NodeDaemonPID=7438 error="open /home/snowy/tmp_docker_output/: not a directory"
+time="2021-10-30T22:25:16-07:00" level=info msg="Node UUID d4de9787-3a0a-11ec-a092-024b3b9646f6 up!" NodeDaemonPID=7438
+time="2021-10-30T22:25:16-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=7438
+time="2021-10-30T22:25:16-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=7438
+time="2021-10-30T22:25:16-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=7438
+time="2021-10-30T22:25:16-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=7438
+time="2021-10-30T22:26:00-07:00" level=info msg="Node UUID d4de9787-3a0a-11ec-a092-024b3b9646f6 up!" NodeDaemonPID=7438
+time="2021-10-30T22:26:00-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=7438
+time="2021-10-30T22:26:00-07:00" level=info msg="Setting up agent..." NodeDaemonPID=7438
+time="2021-10-30T22:26:00-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=7438
+time="2021-10-30T22:26:00-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=7438
+time="2021-10-30T22:26:00-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=7438
+time="2021-10-30T22:27:31-07:00" level=info msg="got terminate cmd, terminating daemon.. " NodeDaemonPID=7438

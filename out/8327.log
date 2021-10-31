@@ -1,0 +1,16 @@
+time="2021-10-30T22:38:04-07:00" level=info msg="Node UUID b77136dc-3a0c-11ec-aecf-024b3b9646f6 up!" NodeDaemonPID=8327
+time="2021-10-30T22:38:04-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=8327
+time="2021-10-30T22:38:04-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=8327
+time="2021-10-30T22:38:04-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=8327
+time="2021-10-30T22:38:04-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=8327
+time="2021-10-30T22:38:04-07:00" level=info msg="Setting up agent..." NodeDaemonPID=8327
+time="2021-10-30T22:38:06-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8327
+time="2021-10-30T22:38:06-07:00" level=info msg="publishing score of 2" NodeDaemonPID=8327
+time="2021-10-30T22:38:06-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=8327
+time="2021-10-30T22:38:08-07:00" level=info msg="subMsg received on jobs receive: 8327:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8327
+time="2021-10-30T22:38:08-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8327
+time="2021-10-30T22:38:08-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=8327
+time="2021-10-30T22:38:09-07:00" level=info msg="Got past, &{8327 Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq 2021-10-30 22:38:08.1451888 -0700 PDT m=+3.936792101 0001-01-01 00:00:00 +0000 UTC  started}" NodeDaemonPID=8327
+time="2021-10-30T22:38:09-07:00" level=info msg=Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq NodeDaemonPID=8327
+time="2021-10-30T22:38:09-07:00" level=error msg="problem reading the ipfs output dir" NodeDaemonPID=8327 error="open /home/snowy/tmp_docker_output/: permission denied"
+time="2021-10-30T22:39:39-07:00" level=info msg="got terminate cmd, terminating daemon.. " NodeDaemonPID=8327

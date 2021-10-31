@@ -1,0 +1,8 @@
+time="2021-10-30T22:14:58-07:00" level=info msg="Node UUID 7d834f38-3a09-11ec-947b-024b3b9646f6 up!" NodeDaemonPID=5880
+time="2021-10-30T22:14:58-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=5880
+time="2021-10-30T22:14:58-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=5880
+time="2021-10-30T22:14:58-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=5880
+time="2021-10-30T22:14:58-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=5880
+time="2021-10-30T22:15:03-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=5880 error="empty queue"
+time="2021-10-30T22:15:08-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=5880 error="empty queue"
+time="2021-10-30T22:15:09-07:00" level=info msg="got terminate cmd, terminating daemon.. " NodeDaemonPID=5880

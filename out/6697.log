@@ -1,0 +1,65 @@
+time="2021-10-30T22:18:25-07:00" level=info msg="Node UUID f8bb9c70-3a09-11ec-9b14-024b3b9646f6 up!" NodeDaemonPID=6697
+time="2021-10-30T22:18:25-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=6697
+time="2021-10-30T22:18:25-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=6697
+time="2021-10-30T22:18:25-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=6697
+time="2021-10-30T22:18:25-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=6697
+time="2021-10-30T22:18:30-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:18:30-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6697
+time="2021-10-30T22:18:30-07:00" level=info msg="publishing score of 2" NodeDaemonPID=6697
+time="2021-10-30T22:18:30-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=6697
+time="2021-10-30T22:18:32-07:00" level=info msg="subMsg received on jobs receive: 6697:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6697
+time="2021-10-30T22:18:32-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6697
+time="2021-10-30T22:18:32-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=6697
+time="2021-10-30T22:18:35-07:00" level=info msg="Got past, &{6697 Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq 2021-10-30 22:18:32.6246096 -0700 PDT m=+7.244812401 0001-01-01 00:00:00 +0000 UTC  started}" NodeDaemonPID=6697
+time="2021-10-30T22:18:35-07:00" level=info msg=Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq NodeDaemonPID=6697
+time="2021-10-30T22:18:35-07:00" level=error msg="problem reading the ipfs output dir" NodeDaemonPID=6697 error="open /home/snowy/tmp_docker_output/: not a directory"
+time="2021-10-30T22:18:40-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:18:45-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:18:50-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:18:55-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:00-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:05-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:10-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:15-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:20-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:25-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:30-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:35-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:40-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:45-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:50-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:19:55-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:00-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:05-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:10-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:15-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:20-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:25-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:30-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:35-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:40-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:45-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:50-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:20:55-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:00-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:05-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:10-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:15-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:20-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:25-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:30-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:35-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:40-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:45-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:50-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:21:52-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6697
+time="2021-10-30T22:21:52-07:00" level=info msg="publishing score of 8" NodeDaemonPID=6697
+time="2021-10-30T22:21:52-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=6697
+time="2021-10-30T22:21:54-07:00" level=info msg="subMsg received on jobs receive: 6697:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6697
+time="2021-10-30T22:21:54-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6697
+time="2021-10-30T22:21:54-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=6697
+time="2021-10-30T22:21:55-07:00" level=info msg="Got past, &{6697 Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq 2021-10-30 22:21:54.970896 -0700 PDT m=+209.591098701 0001-01-01 00:00:00 +0000 UTC  started}" NodeDaemonPID=6697
+time="2021-10-30T22:21:55-07:00" level=info msg=Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq NodeDaemonPID=6697
+time="2021-10-30T22:21:55-07:00" level=error msg="problem reading the ipfs output dir" NodeDaemonPID=6697 error="open /home/snowy/tmp_docker_output/: not a directory"
+time="2021-10-30T22:22:00-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6697 error="empty queue"
+time="2021-10-30T22:22:00-07:00" level=info msg="got terminate cmd, terminating daemon.. " NodeDaemonPID=6697

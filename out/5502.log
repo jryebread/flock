@@ -1,0 +1,11 @@
+time="2021-10-30T22:09:44-07:00" level=info msg="Node UUID c2a76b46-3a08-11ec-a97d-024b3b9646f6 up!" NodeDaemonPID=5502
+time="2021-10-30T22:09:44-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=5502
+time="2021-10-30T22:09:44-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=5502
+time="2021-10-30T22:09:44-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=5502
+time="2021-10-30T22:09:44-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=5502
+time="2021-10-30T22:09:53-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=5502
+time="2021-10-30T22:09:53-07:00" level=info msg="publishing score of 2" NodeDaemonPID=5502
+time="2021-10-30T22:09:53-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=5502
+time="2021-10-30T22:09:55-07:00" level=info msg="subMsg received on jobs receive: 5502:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=5502
+time="2021-10-30T22:09:55-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=5502
+time="2021-10-30T22:09:55-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=5502

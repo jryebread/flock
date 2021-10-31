@@ -1,0 +1,13 @@
+time="2021-10-30T20:57:14-07:00" level=info msg="Node UUID a1abe7c9-39fe-11ec-8768-024b3b9646f6 up!" NodeDaemonPID=3465
+time="2021-10-30T20:57:14-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=3465
+time="2021-10-30T20:57:14-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=3465
+time="2021-10-30T20:57:14-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=3465
+time="2021-10-30T20:57:14-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=3465
+time="2021-10-30T20:57:20-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=3465
+time="2021-10-30T20:57:20-07:00" level=info msg="publishing score of 2" NodeDaemonPID=3465
+time="2021-10-30T20:57:20-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=3465
+time="2021-10-30T20:57:22-07:00" level=info msg="subMsg received on jobs receive: 3465:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=3465
+time="2021-10-30T20:57:22-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=3465
+time="2021-10-30T20:57:22-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=3465
+time="2021-10-30T20:57:24-07:00" level=error msg="problem reading the ipfs output dir" NodeDaemonPID=3465 error="open ~/ipfs_output/: no such file or directory"
+time="2021-10-30T21:00:53-07:00" level=info msg="got terminate cmd, terminating daemon.. " NodeDaemonPID=3465

@@ -1,0 +1,14 @@
+time="2021-10-30T22:15:14-07:00" level=info msg="Node UUID 86cb8f6e-3a09-11ec-8e18-024b3b9646f6 up!" NodeDaemonPID=6089
+time="2021-10-30T22:15:14-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=6089
+time="2021-10-30T22:15:14-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=6089
+time="2021-10-30T22:15:14-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=6089
+time="2021-10-30T22:15:14-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=6089
+time="2021-10-30T22:15:19-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6089 error="empty queue"
+time="2021-10-30T22:15:24-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6089 error="empty queue"
+time="2021-10-30T22:15:29-07:00" level=error msg="failure: queue was either locked or empty" NodeDaemonPID=6089 error="empty queue"
+time="2021-10-30T22:15:29-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6089
+time="2021-10-30T22:15:29-07:00" level=info msg="publishing score of 2" NodeDaemonPID=6089
+time="2021-10-30T22:15:29-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=6089
+time="2021-10-30T22:15:31-07:00" level=info msg="subMsg received on jobs receive: 6089:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6089
+time="2021-10-30T22:15:31-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=6089
+time="2021-10-30T22:15:31-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=6089

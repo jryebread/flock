@@ -1,0 +1,17 @@
+time="2021-10-30T22:27:38-07:00" level=info msg="Node UUID 4264ba83-3a0b-11ec-ac6f-024b3b9646f6 up!" NodeDaemonPID=7837
+time="2021-10-30T22:27:38-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=7837
+time="2021-10-30T22:27:38-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=7837
+time="2021-10-30T22:27:38-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=7837
+time="2021-10-30T22:27:38-07:00" level=info msg="Setting up agent..." NodeDaemonPID=7837
+time="2021-10-30T22:27:38-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=7837
+time="2021-10-30T22:27:38-07:00" level=error msg="Error: mkdir /home/snowy/tmp_docker_output/: file exists" NodeDaemonPID=7837
+time="2021-10-30T22:27:40-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=7837
+time="2021-10-30T22:27:40-07:00" level=info msg="publishing score of 2" NodeDaemonPID=7837
+time="2021-10-30T22:27:40-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=7837
+time="2021-10-30T22:27:42-07:00" level=info msg="subMsg received on jobs receive: 7837:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=7837
+time="2021-10-30T22:27:42-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=7837
+time="2021-10-30T22:27:42-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=7837
+time="2021-10-30T22:27:43-07:00" level=info msg="Got past, &{7837 Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq 2021-10-30 22:27:42.8351893 -0700 PDT m=+4.353893001 0001-01-01 00:00:00 +0000 UTC  started}" NodeDaemonPID=7837
+time="2021-10-30T22:27:43-07:00" level=info msg=Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq NodeDaemonPID=7837
+time="2021-10-30T22:27:43-07:00" level=error msg="problem reading the ipfs output dir" NodeDaemonPID=7837 error="open /home/snowy/tmp_docker_output/: not a directory"
+time="2021-10-30T22:32:16-07:00" level=info msg="got terminate cmd, terminating daemon.. " NodeDaemonPID=7837

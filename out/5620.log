@@ -1,0 +1,6 @@
+time="2021-10-30T22:12:48-07:00" level=info msg="Node UUID 2fcf48bd-3a09-11ec-b8e8-024b3b9646f6 up!" NodeDaemonPID=5620
+time="2021-10-30T22:12:48-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=5620
+time="2021-10-30T22:12:48-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=5620
+time="2021-10-30T22:12:48-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=5620
+time="2021-10-30T22:12:48-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=5620
+time="2021-10-30T22:12:51-07:00" level=info msg="got terminate cmd, terminating daemon.. " NodeDaemonPID=5620

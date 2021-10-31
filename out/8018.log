@@ -1,0 +1,26 @@
+time="2021-10-30T22:32:29-07:00" level=info msg="Node UUID efa1daa6-3a0b-11ec-9a9d-024b3b9646f6 up!" NodeDaemonPID=8018
+time="2021-10-30T22:32:29-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=8018
+time="2021-10-30T22:32:29-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=8018
+time="2021-10-30T22:32:29-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=8018
+time="2021-10-30T22:32:29-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=8018
+time="2021-10-30T22:32:29-07:00" level=info msg="Setting up agent..." NodeDaemonPID=8018
+time="2021-10-30T22:32:29-07:00" level=error msg="Error: mkdir /home/snowy/tmp_docker_output/: file exists" NodeDaemonPID=8018
+time="2021-10-30T22:32:31-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8018
+time="2021-10-30T22:32:31-07:00" level=info msg="publishing score of 2" NodeDaemonPID=8018
+time="2021-10-30T22:32:31-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=8018
+time="2021-10-30T22:32:33-07:00" level=info msg="subMsg received on jobs receive: 8018:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8018
+time="2021-10-30T22:32:33-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8018
+time="2021-10-30T22:32:33-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=8018
+time="2021-10-30T22:32:34-07:00" level=info msg="Got past, &{8018 Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq 2021-10-30 22:32:33.3286037 -0700 PDT m=+4.245410501 0001-01-01 00:00:00 +0000 UTC  started}" NodeDaemonPID=8018
+time="2021-10-30T22:32:34-07:00" level=info msg=Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq NodeDaemonPID=8018
+time="2021-10-30T22:32:34-07:00" level=error msg="problem reading the ipfs output dir" NodeDaemonPID=8018 error="open /home/snowy/tmp_docker_output/: not a directory"
+time="2021-10-30T22:34:28-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8018
+time="2021-10-30T22:34:28-07:00" level=info msg="publishing score of 8" NodeDaemonPID=8018
+time="2021-10-30T22:34:28-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=8018
+time="2021-10-30T22:34:30-07:00" level=info msg="subMsg received on jobs receive: 8018:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8018
+time="2021-10-30T22:34:30-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8018
+time="2021-10-30T22:34:30-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=8018
+time="2021-10-30T22:34:34-07:00" level=info msg="Got past, &{8018 Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq 2021-10-30 22:34:30.8469053 -0700 PDT m=+121.763712201 0001-01-01 00:00:00 +0000 UTC  started}" NodeDaemonPID=8018
+time="2021-10-30T22:34:34-07:00" level=info msg=Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq NodeDaemonPID=8018
+time="2021-10-30T22:34:34-07:00" level=error msg="problem reading the ipfs output dir" NodeDaemonPID=8018 error="open /home/snowy/tmp_docker_output/: not a directory"
+time="2021-10-30T22:34:39-07:00" level=info msg="got terminate cmd, terminating daemon.. " NodeDaemonPID=8018

@@ -1,0 +1,16 @@
+time="2021-10-30T22:40:35-07:00" level=info msg="Node UUID 11da050d-3a0d-11ec-b40e-024b3b9646f6 up!" NodeDaemonPID=8582
+time="2021-10-30T22:40:35-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=8582
+time="2021-10-30T22:40:35-07:00" level=info msg="subbing to announce-join topic" NodeDaemonPID=8582
+time="2021-10-30T22:40:35-07:00" level=info msg="subbing to TaskStatusQuery topic" NodeDaemonPID=8582
+time="2021-10-30T22:40:35-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=8582
+time="2021-10-30T22:40:35-07:00" level=info msg="Setting up agent..." NodeDaemonPID=8582
+time="2021-10-30T22:40:36-07:00" level=info msg="subMsg received on NewJobs, publishing on job score: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8582
+time="2021-10-30T22:40:36-07:00" level=info msg="publishing score of 2" NodeDaemonPID=8582
+time="2021-10-30T22:40:36-07:00" level=info msg="subbing to NewJobs topic" NodeDaemonPID=8582
+time="2021-10-30T22:40:38-07:00" level=info msg="subMsg received on jobs receive: 8582:Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8582
+time="2021-10-30T22:40:38-07:00" level=info msg="I recieved job: Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq" NodeDaemonPID=8582
+time="2021-10-30T22:40:38-07:00" level=info msg="subbing to job receive topic" NodeDaemonPID=8582
+time="2021-10-30T22:40:40-07:00" level=info msg="Got past, &{8582 Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq 2021-10-30 22:40:38.4369536 -0700 PDT m=+2.554139501 0001-01-01 00:00:00 +0000 UTC  started}" NodeDaemonPID=8582
+time="2021-10-30T22:40:40-07:00" level=info msg=Qmd4kKqh4batj73JBYvhaWE4tryb64sbLtr7ewVapnysEq NodeDaemonPID=8582
+time="2021-10-30T22:40:42-07:00" level=info msg="Docker image loaded: hello-world:latest\n" NodeDaemonPID=8582
+time="2021-10-30T22:40:47-07:00" level=info msg="docker run output captured" NodeDaemonPID=8582 docker_output="\nHello from Docker!\nThis message shows that your installation appears to be working correctly.\n\nTo generate this message, Docker took the following steps:\n 1. The Docker client contacted the Docker daemon.\n 2. The Docker daemon pulled the \"hello-world\" image from the Docker Hub.\n    (amd64)\n 3. The Docker daemon created a new container from that image which runs the\n    executable that produces the output you are currently reading.\n 4. The Docker daemon streamed that output to the Docker client, which sent it\n    to your terminal.\n\nTo try something more ambitious, you can run an Ubuntu container with:\n $ docker run -it ubuntu bash\n\nShare images, automate workflows, and more with a free Docker ID:\n https://hub.docker.com/\n\nFor more examples and ideas, visit:\n https://docs.docker.com/get-started/\n\n"
